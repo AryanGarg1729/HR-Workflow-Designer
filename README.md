@@ -19,3 +19,10 @@ A simple drag-and-drop workflow builder for HR processes.
 - Drag and drop nodes to create workflows
 - Configure node properties in the side panel
 - Simulate and validate the workflow logic
+
+##Screenshots
+
+<img width="2559" height="1353" alt="image" src="https://github.com/user-attachments/assets/8ae23097-05b7-408f-89fa-206e9268cb25" />
+
+<img width="2559" height="1349" alt="image" src="https://github.com/user-attachments/assets/55fef1f9-df36-4f4b-9173-557eca523fd7" />
+
